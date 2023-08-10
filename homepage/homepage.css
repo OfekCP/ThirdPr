@@ -256,7 +256,7 @@ filter: brightness(130%);
   }
 
   .search-logo {
-      display: none; /* Hide the search logo */
+      display: none; 
   }
 
   #txt {
@@ -284,16 +284,16 @@ filter: brightness(130%);
   }
 
   .container {
-      grid-template-columns: repeat(2, 3fr); /* Change to 1 column */
+      grid-template-columns: repeat(2, 3fr); 
       column-gap: 1vw;
       row-gap: 2vh;
       left: 2vw;
-      width: 96%; /* Adjust the width */
-      overflow-x: hidden; /* Hide horizontal scroll */
+      width: 96%;
+      overflow-x: hidden; 
   }
 
   .container img {
-      max-width: 70%; /* Limit image width to container */
+      max-width: 70%; 
       height: 100%;
       position: relative;
       left: 5vw;
@@ -303,12 +303,11 @@ filter: brightness(130%);
     left: 6vw;
   }
 
-  /* Reduce the font size of spans */
   #faf2, #tlm2, #gotg2, #edr2, #m652, #tran2 {
       font-size: 2vw;
   }
 
-  /* Adjust the font size of the title within container */
+ 
   .container span {
       font-size: 2vw;
   }
