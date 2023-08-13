@@ -196,6 +196,7 @@ align-content: center;
 }
 .faf1 img{
   border-radius: 1vw;
+  transition: 0.3s ease-in-out;
 }
 .faf1 img:hover{
 width:17vw;
@@ -205,6 +206,7 @@ filter: brightness(130%);
 }
 .tlm1 img{
   border-radius: 1vw;
+  transition: 0.3s ease-in-out;
 }
 .tlm1 img:hover{
   width:17vw;
@@ -214,6 +216,7 @@ filter: brightness(130%);
 }
 .gotg1 img{
   border-radius: 1vw;
+  transition: 0.3s ease-in-out;
 }
 .gotg1 img:hover{
   width:17vw;
@@ -223,6 +226,7 @@ filter: brightness(130%);
 }
 .edr1 img{
   border-radius: 1vw;
+  transition: 0.3s ease-in-out;
 }
 .edr1 img:hover{
   width:17vw;
@@ -232,6 +236,7 @@ filter: brightness(130%);
 }
 .m65 img{
   border-radius: 1vw;
+  transition: 0.3s ease-in-out;
 }
 .m65 img:hover{
   width:17vw;
@@ -241,6 +246,7 @@ filter: brightness(130%);
 }
 .tran1 img{
   border-radius: 1vw;
+  transition: 0.3s ease-in-out;
 }
 .tran1 img:hover{
   width:17vw;
@@ -250,6 +256,7 @@ filter: brightness(130%);
 }
 
 @media screen and (max-width: 480px) {
+ 
   .menu-logo img {
       width: 8vw;
       height: auto;
