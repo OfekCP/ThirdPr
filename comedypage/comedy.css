@@ -78,6 +78,7 @@ z-index: 1;
   .nav-bar li:hover {
     font-size: 20px; 
     border-bottom: 2px solid #ffffff;
+    transition: 0.3s;
   }
   .has-sublist {
     position: relative;
